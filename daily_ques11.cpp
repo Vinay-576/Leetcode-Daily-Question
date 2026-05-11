@@ -5,7 +5,6 @@
 // To separate the digits of an integer is to get all the digits it has in the same order.
 
 // For example, for the integer 10921, the separation of its digits is [1,0,9,2,1].
-
  
 
 #include <iostream>
