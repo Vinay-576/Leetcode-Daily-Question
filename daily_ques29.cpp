@@ -14,7 +14,6 @@ public:
                 ans = min(ans, min(f1, f2));
             }
         }
-
         return (int)ans;
     }
 };
